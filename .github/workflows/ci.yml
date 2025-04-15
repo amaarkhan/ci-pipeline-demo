@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: 22i0759/ci-pipeline-demo:latest
+          tags: your-dockerhub-username/ci-pipeline-demo:latest
