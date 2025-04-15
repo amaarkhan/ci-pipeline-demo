@@ -4,4 +4,4 @@ def greet(name):
 
 print(greet("CI Pipeline"))
 
-# Add a newline here (ensure there's a blank line at the end of the file)
+# Blank line added below to resolve the linting error
